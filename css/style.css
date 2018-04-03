@@ -9,7 +9,7 @@
 }
 
 .header-container {
-  background-color: #CAE3E3;  
+  background-color: #CAE3E3;
   display: flex;
   padding: 20px;
   justify-content: flex-start;
@@ -40,8 +40,15 @@
   border-bottom: 3px solid black;
 }
 
-.footer_separator_rule {
+.footer{
   border-top: 1px solid gray;
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #8B8E8E;
+  color: white;
+  text-align: center;
 }
 
 .logo {

@@ -79,11 +79,11 @@ max-width: 100%;
   justify-content: center;
 }
 
-.figure2, .figure1, .figure3 {
+.figure2, .figure1, .figure3, .figure4 {
   padding-left: 50px;
 }
 
-#project1_image, #project2_image, #project3_image {
+#project1_image, #project2_image, #project3_image, #project4_image {
   max-width: 100%;
   height: auto;
 }
